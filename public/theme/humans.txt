@@ -1,0 +1,22 @@
+/* TEAM */
+Lead Developer: Dmytro Dyvulskyi
+UI/UX Designer: Jane Smith
+QA Engineer: Mike Brown
+Project Manager: Sarah Lee
+
+/* THANKS */
+We would like to thank the following people and organizations for their contributions to our project:
+— The PHP_SF community for creating a powerful and flexible web application framework.
+— OpenAI for training ChatGPT, which helped us to create better documentation.
+— Our families and friends for their support and encouragement.
+
+/* TECHNOLOGIES */
+This website was built using the following technologies:
+— PHP_SF framework with Doctrine ORM
+— HTML5 and CSS3
+— JavaScript, jQuery and WebPack
+— PostgreSQL database
+— Nginx web server
+
+/* COPYRIGHT */
+Copyright © 2023 Nations Original sp. z o.o. All rights reserved.
