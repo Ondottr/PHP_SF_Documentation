@@ -1,57 +1,9 @@
-```
-Copyright © 2018-2023, Nations Original Sp. z o.o. <contact@nations-original.com>
+Copyright (c) 2023 Nations Original sp. z o.o.
 
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted, provided that the above
-copyright notice and this permission notice appear in all copies.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and distribute the Software for non-commercial purposes only, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-```
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-```
-Авторские права © 2018-2023, Nations Original Sp. z o.o. <contact@nations-original.com>
+2. The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
-Разрешается использование, копирование, модификация и/или распространение данного программного обеспечения для любых
-целей за плату или бесплатно, при условии сохранения отметки об авторских правах выше
-и включении данного разрешения во все копии.
-
-ЭТО ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ" И АВТОР ОТКАЗЫВАЕТСЯ ОТ ЛЮБЫХ ГАРАНТИЙ,
-СВЯЗАННЫХ С ДАННЫМ ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ, ВКЛЮЧАЯ ВСЕ ПОДРАЗУМЕВАЕМЫЕ ГАРАНТИИ
-ТОВАРНОЙ ПРИГОДНОСТИ И СООТВЕТСТВИЯ ЦЕЛЯМ ИСПОЛЬЗОВАНИЯ. АВТОР НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ ЗА
-ЛЮБОЙ СПЕЦИАЛЬНЫЙ, ПРЯМОЙ, КОСВЕННЫЙ ИЛИ СПРОВОЦИРОВАННЫЙ УЩЕРБ, А ТАКЖЕ ЛЮБОЙ УЩЕРБ
-ИЗ-ЗА НЕВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ, ПОТЕРИ ДАННЫХ ИЛИ ПРИБЫЛИ,
-ПОД ДЕЙСТВИЕМ ВЗЯТЫХ ОБЯЗАТЕЛЬСТВ, НЕБРЕЖНОСТИ ИЛИ ДРУГОГО ВРЕДОНОСНОГО ДЕЙСТВИЯ, ПРОИСХОДЯЩЕГО БЕЗ
-ИЛИ В СВЯЗИ С ИСПОЛЬЗОВАНИЕМ ИЛИ ВЫПОЛНЕНИЕМ ДАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ.
-```
-
-```
-Prawa autorskie © 2018-2023, Nations Original Sp. z o.o. <contact@nations-original.com>
-Niniejszym udziela się zgody na używanie, kopiowanie, modyfikowanie i / lub rozpowszechnianie tego oprogramowania
-w jakimkolwiek celu, za opłatą lub bez, pod warunkiem, że powyższa informacja o prawach autorskich oraz niniejsza
-informacja o zezwoleniu pojawią się we wszystkich kopiach.
- 
-DOSTARCZONE „TAK JAK JEST”, A AUTOR WYŁĄCZA WSZELKIE GWARANCJE DOTYCZĄCE NINIEJSZEGO OPROGRAMOWANIA, W TYM WSZELKIE 
-DOMNIEMANE GWARANCJE PRZYDATNOŚCI HANDLOWEJ I PRZYDATNOŚCI. W ŻADNYM WYPADKU AUTOR NIE PONOSI ODPOWIEDZIALNOŚCI 
-ZA SZKODY SZCZEGÓLNE, BEZPOŚREDNIE, POŚREDNIE LUB WTÓRNE ANI ZA JAKIEKOLWIEK SZKODY WYNIKAJĄCE Z UTRATY KORZYSTANIA, 
-DANYCH LUB ZYSKÓW, ZARÓWNO Z TYTUŁU UMOWY, ZANIEDBANIA LUB INNEGO NIŻSZYCH DZIAŁAŃ, W ZWIĄZKU Z UŻYWANIEM LUB 
-DZIAŁANIEM NINIEJSZEGO OPROGRAMOWANIA.
-```
-
-```
-Авторське право © 2018-2023, Nations Original Sp. z o.o. <contact@nations-original.com>
-
-Цим надається дозвіл на використання, копіювання, змінювання, і/або розповсюдження цього програмного продукту з 
-будь-якою ціллю з чи без оплати, за умови, що подана вище замітка про авторське право і ці довзоли наявні в усіх копіях.
-
-ПРОГРАМНИЙ ПРОДУКТ НАДАЄТЬСЯ "ЯК Є" І АВТОР ВІДХИЛЯЄ ВСІ ГАРАНТІЇ ЩОДО ЦЬОГО ПРОГРАМНОГО ПРОДУКТУ ВКЛЮЧНО З УСІМА 
-ПРИПУСКНИМИ ГАРАНТІЯМИ МОЖЛИВОСТІ ПРОДАЖУ І ПРИДАДНОСТІ. У ЖОДНОМУ РАЗІ АВТОР НЕ МАЄ БУТИ ВІДПОВІДАЛЬНИМ ЗА БУДЬ-ЯКУ 
-СПЕЦІАЛЬНУ, ПРЯМУ, НЕПРЯМУ АБО НАСЛІДКОВУ ШКОДУ, ЩО БУДЬ-ЯК РЕЗУЛЬТУЄ З НЕМОЖЛИВІСТІ КОРИСТУВАННЯ, ВТРАТИ ДАНИХ ЧИ 
-ПРИБУТКУ В УМОВАХ ДОМОВЛЕНОСТІ, НЕДБАЛОСТІ ЧИ ІНШОГО ЗБИТКОВОГО ВИКОРИСТАННЯ, ЩО ПОСТАЄ З АБО У ЗВ'ЯЗКУ З ВИКОРИСТАННЯМ
-ЧИ ПРОДУКТИВНІСТЮ ЦЬОГО ПРОГРАМНОГО ПРОДУКТУ.
-```
+3. Commercial use of the Software is strictly prohibited, unless prior written permission is obtained from Nations Original sp. z o.o..
