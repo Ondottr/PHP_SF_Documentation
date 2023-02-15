@@ -17,7 +17,21 @@
 html {
 
   body {
-    font-family: "Maven Pro", sans-serif;
+    nav {
+      li.menu__item {
+        a > img, a > svg {
+          max-height:    15px;
+          margin-right:  3px;
+          margin-bottom: 4px;
+        }
+      }
+    }
+
+    aside {
+      hr {
+        color: #80808087;
+      }
+    }
   }
 }
 

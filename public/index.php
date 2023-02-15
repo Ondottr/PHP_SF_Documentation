@@ -13,11 +13,11 @@
  */
 
 use App\Entity\User;
+use App\View\Layout\footer;
+use App\View\Layout\header;
 use PHP_SF\Framework\Http\Middleware\auth;
 use PHP_SF\System as PHP_SF;
 use PHP_SF\System\Router;
-use PHP_SF\Templates\Layout\footer;
-use PHP_SF\Templates\Layout\header;
 use Symfony\Component\Dotenv\Dotenv;
 use Symfony\Component\ErrorHandler\Debug;
 
