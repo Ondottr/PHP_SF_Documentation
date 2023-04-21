@@ -15,7 +15,7 @@ final class landing_home_page extends AbstractView { public function show(): voi
   <!--@formatter:on-->
 
   <div class="hero">
-    <h1 class="hero__title">PHP SF</h1>
+    <h1 class="hero__title">PHP SF<i style="font-size: 10px;position: absolute;font-weight: 700;"><?= env( 'PHP_SF_DEVELOPMENT_STAGE' ) ?></i></h1>
     <p class="hero__description"><?= _t( 'Powerful and flexible web application framework' ) ?></p>
   </div>
   <div class="wrapper">
@@ -25,7 +25,7 @@ final class landing_home_page extends AbstractView { public function show(): voi
         <?= _t( 'To install the framework simply run the installation script from the project root directory and follow the instructions.' ) ?>
       </p>
       <div class="tab__container">
-        <div class="nohighlight code">
+        <div class="code">
             <code class="tab__pane active">
               $ ./install.sh
             </code>

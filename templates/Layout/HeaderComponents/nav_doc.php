@@ -15,7 +15,10 @@ final class nav_doc extends AbstractView { public function show(): void { ?>
   <!--@formatter:on-->
 
   <nav class="header">
-    <h1 class="logo">PHP_SF <span class="logo__thin">Docs</span></h1>
+    <h1 class="logo">
+      PHP_SF <span class="logo__thin">Docs</span>
+      <i style="font-size: 10px;position: absolute;"><?= env( 'DEVELOPMENT_STAGE' ) ?></i>
+    </h1>
     <ul class="menu">
       <div class="menu__item toggle"><span></span></div>
       <li class="menu__item">
