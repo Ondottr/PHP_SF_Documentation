@@ -31,10 +31,17 @@ final class SymfonyCacheClearCommand extends Command
     protected function configure(): void {}
 
 
+    /**
+     * @noinspection MissingParentCallInspection
+     */
     protected function execute( InputInterface $input, OutputInterface $output ): int
     {
         $this->getApplication()
             ?->find( 'cache:clear' )
+            ?->run( new ArrayInput( [] ), $output );
+
+        $this->getApplication()
+            ?->find( 'doctrine:cache:clear-metadata' )
             ?->run( new ArrayInput( [] ), $output );
 
         $this->getApplication()
